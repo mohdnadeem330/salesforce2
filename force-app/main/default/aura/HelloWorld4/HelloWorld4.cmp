@@ -1,0 +1,5 @@
+<aura:component >
+	<p>HELLO</p>
+    <p><lightning:formattedEmail value="email@example.com" /></p>
+    <p><lightning:formattedEmail value="email@example.com" label="example email" /></p>
+</aura:component>

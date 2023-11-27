@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Visa_Compact</fullName>
+    <fields>Name</fields>
+    <fields>Validity__c</fields>
+    <fields>Photo_Match__c</fields>
+    <fields>Visa_Type__c</fields>
+    <label>Visa Compact</label>
+</CompactLayout>

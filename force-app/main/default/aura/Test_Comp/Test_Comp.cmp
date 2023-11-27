@@ -1,0 +1,9 @@
+<aura:component>
+  <!-- Optional component attributes here -->
+  <!-- Optional HTML markup -->
+  <div class="container"> 
+    Hello world!
+    Hi there changing this from GitHub
+    <!-- Other components -->
+  </div>
+</aura:component>

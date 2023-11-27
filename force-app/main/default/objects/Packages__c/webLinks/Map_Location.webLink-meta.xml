@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Map_Location</fullName>
+    <availability>online</availability>
+    <description>Company Address on the google Map</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <hasMenubar>false</hasMenubar>
+    <hasScrollbars>true</hasScrollbars>
+    <hasToolbar>false</hasToolbar>
+    <height>600</height>
+    <isResizable>true</isResizable>
+    <linkType>url</linkType>
+    <masterLabel>Map Location</masterLabel>
+    <openType>newWindow</openType>
+    <position>none</position>
+    <protected>false</protected>
+    <showsLocation>false</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>https://www.google.com/maps/place/Mirza+Tour+And+Travels/@26.857247,80.905438,15z/data=!4m5!3m4!1s0x0:0x2166d31c47e855ed!8m2!3d26.857247!4d80.9054383?hl=en-US</url>
+</WebLink>
