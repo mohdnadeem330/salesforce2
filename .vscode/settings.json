@@ -1,0 +1,16 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "cx.server": {
+    "url": "https://cigna.checkmarx.net/",
+    "alias": "CignaCheckmarx",
+    "username": "",
+    "password": "",
+    "project_id": 0,
+    "team_id": 0,
+    "project_name": ""
+  }
+}
