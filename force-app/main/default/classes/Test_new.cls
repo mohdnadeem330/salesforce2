@@ -5,6 +5,7 @@ public with sharing class Test_new {
         case c=new case();
         c.Status='NEW';
         insert c;
+        // Test class is built to run the unit tests
         }
     }
 }
